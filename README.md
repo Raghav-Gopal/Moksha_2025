@@ -1,13 +1,17 @@
 # eBAJA 2025 – Moksha Motorsports
 
-Welcome to the official GitHub repository for our eBAJA 2025 project, developed by the Moksha Motorsports team from [Your Institution Name Here].
+Welcome to the official GitHub repository for our eBAJA 2025 project, developed by the Moksha Motorsports team from IIT Gandhinagar.
 
 This repository showcases the design and manufacturing efforts of our electric All-Terrain Vehicle (ATV) developed as part of SAEINDIA’s eBAJA competition.
+
+<p align="center">
+  <img src="Gallery/Final_Vehicle_view#4.jpg" alt="eBAJA 2025 Vehicle" width="600">
+</p>
 
 ## 📸 What You'll Find in This Repository
 This repository includes:
 
-High-resolution images of key components and assemblies we designed and manufactured.
+Images of key components and assemblies we designed and manufactured.
 
 A visual log of our iterative design, validation, and manufacturing processes.
 
@@ -47,7 +51,7 @@ We take pride in the originality of our work. While we are happy to share our pr
 If you are a judge, collaborator, or academic researcher and need access to design files for review purposes, please contact us directly.
 
 ## 📬 Contact
-For collaboration, queries, or access to design files (under NDA):
+For collaboration, queries, or access to design files:
 
 Team Moksha Motorsports
 IIT Gandhinagar
