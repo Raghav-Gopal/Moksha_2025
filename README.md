@@ -5,7 +5,7 @@ Welcome to the official GitHub repository for our eBAJA 2025 project, developed 
 This repository showcases the design and manufacturing efforts of our electric All-Terrain Vehicle (ATV) developed as part of SAEINDIA’s eBAJA competition.
 
 <p align="center">
-  <img src="Gallery/Final_Vehicle_view#4.jpg" alt="eBAJA 2025 Vehicle" width="600">
+  <img src="Gallery/Final_Vehicle_view%234.jpg" alt="eBAJA 2025 Vehicle" width="800">
 </p>
 
 ## 📸 What You'll Find in This Repository
